@@ -3,6 +3,7 @@ package com.javafortesters.chapter010;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -29,5 +30,18 @@ public class Collections {
         Assert.assertEquals(4, numbers0123.size());
     }
 
-    
+    @Test
+    public void simpleDynamicCollectionExample(){
+        List <String> numbers0123 = new ArrayList<>();
+        numbers0123.add("zero");
+        numbers0123.add("one");
+        numbers0123.add("two");
+        numbers0123.add("three");
+        for (String number : numbers0123){
+            System.out.println(number);
+        }
+        Assert.assertEquals("one", numbers0123.get(1));
+        Assert.assertEquals("three", numbers0123.get(3));
+    }
+
 }
