@@ -13,35 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter009/UserTests.java">
+      <file leaf-file-name="Interfaces.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Interfaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3340">
-              <caret line="173" column="6" lean-forward="false" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Collections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Loops.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Loops.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="72" column="106" lean-forward="false" selection-start-line="72" selection-start-column="106" selection-end-line="72" selection-end-column="106" />
+            <state relative-caret-position="530">
+              <caret line="114" column="73" lean-forward="false" selection-start-line="114" selection-start-column="73" selection-end-line="114" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chapter009/MainClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Collections.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Loops.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Interfaces.java" />
       </list>
     </option>
   </component>
@@ -129,6 +106,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,14 +186,36 @@
               <item name="JavaForTesters" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+            <path>
+              <item name="JavaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="JavaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,8 +250,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Loops">
-    <configuration name="Collections.simpleDynamicCollectionExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Interfaces.toArrayMethodExamples">
+    <configuration name="Interfaces.collectionInterfacesExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.javafortesters.chapter010.*" />
@@ -259,8 +262,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.chapter010" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Collections" />
-      <option name="METHOD_NAME" value="simpleDynamicCollectionExample" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Interfaces" />
+      <option name="METHOD_NAME" value="collectionInterfacesExample" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -273,7 +276,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="Loops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Interfaces.removeallCollectionsExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.javafortesters.chapter010.*" />
@@ -284,33 +287,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.chapter010" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Loops" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Loops.dowhileLoopExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chapter010.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JavaForTesters" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chapter010" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Loops" />
-      <option name="METHOD_NAME" value="dowhileLoopExample" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Interfaces" />
+      <option name="METHOD_NAME" value="removeallCollectionsExample" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -323,7 +301,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="Loops.forLoopExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Interfaces.retainAllCollectionExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.javafortesters.chapter010.*" />
@@ -334,8 +312,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.chapter010" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Loops" />
-      <option name="METHOD_NAME" value="forLoopExample" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Interfaces" />
+      <option name="METHOD_NAME" value="retainAllCollectionExamples" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -348,7 +326,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="Loops.whileLoopExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Interfaces.toArrayMethodExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.javafortesters.chapter010.*" />
@@ -359,8 +337,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.chapter010" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Loops" />
-      <option name="METHOD_NAME" value="whileLoopExample" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Interfaces" />
+      <option name="METHOD_NAME" value="toArrayMethodExamples" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Interfaces.toArrayWithParamMethodExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chapter010.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaForTesters" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chapter010" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chapter010.Interfaces" />
+      <option name="METHOD_NAME" value="toArrayWithParamMethodExamples" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -455,19 +458,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Collections.simpleDynamicCollectionExample" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Loops.forLoopExample" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Loops.whileLoopExample" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Loops.dowhileLoopExample" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Loops" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Interfaces.collectionInterfacesExample" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Interfaces.removeallCollectionsExample" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Interfaces.retainAllCollectionExamples" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Interfaces.toArrayMethodExamples" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Interfaces.toArrayWithParamMethodExamples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Loops" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Loops.dowhileLoopExample" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Loops.whileLoopExample" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Loops.forLoopExample" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Collections.simpleDynamicCollectionExample" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Interfaces.toArrayMethodExamples" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Interfaces.toArrayWithParamMethodExamples" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Interfaces.retainAllCollectionExamples" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Interfaces.removeallCollectionsExample" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Interfaces.collectionInterfacesExample" />
       </list>
     </recent_temporary>
   </component>
@@ -488,35 +491,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Loops - 2018.01.17 at 11h 34m 16s.xml">
-      <configuration name="Loops" configurationId="JUnit" />
+    <history-entry file="Interfaces_removeallCollectionsExample - 2018.01.22 at 13h 22m 47s.xml">
+      <configuration name="Interfaces.removeallCollectionsExample" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_dowhileLoopExample - 2018.01.17 at 11h 33m 33s.xml">
-      <configuration name="Loops.dowhileLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_removeallCollectionsExample - 2018.01.22 at 13h 24m 12s.xml">
+      <configuration name="Interfaces.removeallCollectionsExample" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_dowhileLoopExample - 2018.01.17 at 11h 33m 45s.xml">
-      <configuration name="Loops.dowhileLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_retainAllCollectionExamples - 2018.01.22 at 13h 27m 50s.xml">
+      <configuration name="Interfaces.retainAllCollectionExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_forLoopExample - 2018.01.17 at 11h 14m 01s.xml">
-      <configuration name="Loops.forLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_retainAllCollectionExamples - 2018.01.22 at 13h 29m 52s.xml">
+      <configuration name="Interfaces.retainAllCollectionExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_forLoopExample - 2018.01.17 at 11h 15m 15s.xml">
-      <configuration name="Loops.forLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_toArrayMethodExamples - 2018.01.22 at 16h 37m 59s.xml">
+      <configuration name="Interfaces.toArrayMethodExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_forLoopExample - 2018.01.17 at 11h 15m 34s.xml">
-      <configuration name="Loops.forLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_toArrayMethodExamples - 2018.01.22 at 16h 48m 56s.xml">
+      <configuration name="Interfaces.toArrayMethodExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_forLoopExample - 2018.01.17 at 11h 17m 07s.xml">
-      <configuration name="Loops.forLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_toArrayMethodExamples - 2018.01.22 at 16h 49m 51s.xml">
+      <configuration name="Interfaces.toArrayMethodExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_whileLoopExample - 2018.01.17 at 11h 24m 40s.xml">
-      <configuration name="Loops.whileLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_toArrayWithParamMethodExamples - 2018.01.22 at 16h 42m 22s.xml">
+      <configuration name="Interfaces.toArrayWithParamMethodExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_whileLoopExample - 2018.01.17 at 11h 26m 39s.xml">
-      <configuration name="Loops.whileLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_toArrayWithParamMethodExamples - 2018.01.22 at 16h 45m 56s.xml">
+      <configuration name="Interfaces.toArrayWithParamMethodExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Loops_whileLoopExample - 2018.01.17 at 11h 27m 00s.xml">
-      <configuration name="Loops.whileLoopExample" configurationId="JUnit" />
+    <history-entry file="Interfaces_toArrayWithParamMethodExamples - 2018.01.22 at 16h 46m 02s.xml">
+      <configuration name="Interfaces.toArrayWithParamMethodExamples" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -531,18 +534,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32719395" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32719395" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27025586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27292112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -585,7 +588,55 @@
         <state relative-caret-position="3340">
           <caret line="173" column="6" lean-forward="false" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Loops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="72" column="106" lean-forward="false" selection-start-line="72" selection-start-column="106" selection-end-line="72" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter009/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter009/UserTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3340">
+          <caret line="173" column="6" lean-forward="false" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -595,7 +646,7 @@
         <state relative-caret-position="40">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -613,7 +664,7 @@
         <state relative-caret-position="3340">
           <caret line="173" column="6" lean-forward="false" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -631,7 +682,7 @@
         <state relative-caret-position="3507">
           <caret line="173" column="6" lean-forward="false" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -816,13 +867,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chpter010.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter009/UserTests.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3340">
-          <caret line="173" column="6" lean-forward="false" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-8650">
+          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9103">
+          <caret line="140" column="7" lean-forward="true" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -834,20 +890,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Collections.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Loops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="692">
+          <caret line="72" column="106" lean-forward="false" selection-start-line="72" selection-start-column="106" selection-end-line="72" selection-end-column="106" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Loops.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="72" column="106" lean-forward="false" selection-start-line="72" selection-start-column="106" selection-end-line="72" selection-end-column="106" />
+        <state relative-caret-position="712">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter009/UserTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="173" column="6" lean-forward="false" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chapter010/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="114" column="73" lean-forward="false" selection-start-line="114" selection-start-column="73" selection-end-line="114" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
